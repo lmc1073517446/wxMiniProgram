@@ -1,0 +1,14 @@
+{
+    "name": "limanc/wx-mini-program",
+    "description": "wechat miniprogram basic operate",
+    "type": "library",
+    "authors": [
+        {
+            "name": "limancheng",
+            "email": "limancheng@smartfinancecloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    
+}
